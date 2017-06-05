@@ -1,9 +1,10 @@
 {
   "name": "light-novelist",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Light Novel liked sentece in Chinese version",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js && exit 0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

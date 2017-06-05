@@ -1,5 +1,12 @@
 《用輕小說語調說開坑就是這麼一回事！》
 
+## 安裝
+```
+git clone git@github.com:calpa/light-novelist.git
+cd light-novelist
+npm start
+```
+
 開坑什麼的，真是困擾呢。。。
 
 “但是，就算明天不做，明天的明天還是要去完成的。”
