@@ -1,0 +1,23 @@
+{
+  "name": "light-novelist",
+  "version": "0.1.0",
+  "description": "Light Novel liked sentece in Chinese version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calpa/light-novelist.git"
+  },
+  "author": "calpa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calpa/light-novelist/issues"
+  },
+  "homepage": "https://github.com/calpa/light-novelist#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-json": "^1.2.0"
+  }
+}
