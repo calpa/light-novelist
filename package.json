@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/calpa/light-novelist#readme",
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^5.6.1",
     "eslint-plugin-json": "^1.2.0"
   }
 }
