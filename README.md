@@ -1,7 +1,7 @@
 《用輕小說語調開坑就是這麼一回事！》
 ---
 
-[![Code Climate](https://codeclimate.com/github/calpa/light-novelist/badges/gpa.svg)](https://codeclimate.com/github/calpa/light-novelist)
+[![Code Climate](https://codeclimate.com/github/calpa/light-novelist/badges/gpa.svg)](https://codeclimate.com/github/calpa/light-novelist) [![Greenkeeper badge](https://badges.greenkeeper.io/calpa/light-novelist.svg)](https://greenkeeper.io/)
 
 ## Installation
 ```
